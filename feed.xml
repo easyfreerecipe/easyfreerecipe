@@ -3,10 +3,10 @@
   <channel>
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://easyfreerecipe.com/easyfreerecipe/</link>
-    <atom:link href="http://easyfreerecipe.com/easyfreerecipe/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Jul 2014 01:55:44 -0400</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2014 01:55:44 -0400</lastBuildDate>
+    <link>http://easyfreerecipe.com/</link>
+    <atom:link href="http://easyfreerecipe.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 16 Jul 2014 02:23:33 -0400</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2014 02:23:33 -0400</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -20,7 +20,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -104,8 +104,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 29 May 2014 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/banana-bread</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/banana-bread</guid>
+        <link>http://easyfreerecipe.com/recipes/banana-bread</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/banana-bread</guid>
         
         
         <category>recipes</category>
@@ -125,7 +125,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -212,8 +212,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 25 Jan 2014 05:00:00 -0500</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/oatmeal-coconut-brownies</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/oatmeal-coconut-brownies</guid>
+        <link>http://easyfreerecipe.com/recipes/oatmeal-coconut-brownies</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/oatmeal-coconut-brownies</guid>
         
         
         <category>recipes</category>
@@ -233,7 +233,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -314,8 +314,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 19 Jan 2014 05:00:00 -0500</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/peanut-butter-brownie-puppy-chow</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/peanut-butter-brownie-puppy-chow</guid>
+        <link>http://easyfreerecipe.com/recipes/peanut-butter-brownie-puppy-chow</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/peanut-butter-brownie-puppy-chow</guid>
         
         
         <category>recipes</category>
@@ -335,7 +335,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -424,8 +424,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 19 Jan 2014 05:00:00 -0500</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/oreo-ball-snowmen</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/oreo-ball-snowmen</guid>
+        <link>http://easyfreerecipe.com/recipes/oreo-ball-snowmen</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/oreo-ball-snowmen</guid>
         
         
         <category>recipes</category>
@@ -445,7 +445,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -534,8 +534,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 13 Jan 2014 05:00:00 -0500</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/snickerdoodle-cookie-bars</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/snickerdoodle-cookie-bars</guid>
+        <link>http://easyfreerecipe.com/recipes/snickerdoodle-cookie-bars</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/snickerdoodle-cookie-bars</guid>
         
         
         <category>recipes</category>
@@ -555,7 +555,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -635,8 +635,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 06 Oct 2013 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/apple-spice-cake</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/apple-spice-cake</guid>
+        <link>http://easyfreerecipe.com/recipes/apple-spice-cake</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/apple-spice-cake</guid>
         
         
         <category>recipes</category>
@@ -656,7 +656,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -746,8 +746,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 23 Aug 2013 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/blueberry-biscuits</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/blueberry-biscuits</guid>
+        <link>http://easyfreerecipe.com/recipes/blueberry-biscuits</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/blueberry-biscuits</guid>
         
         
         <category>recipes</category>
@@ -767,7 +767,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -854,8 +854,8 @@
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; Cream cheese mixture can be substituted with peanut butter or filling of your choice.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Aug 2013 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/cinnamon-churros</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/cinnamon-churros</guid>
+        <link>http://easyfreerecipe.com/recipes/cinnamon-churros</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/cinnamon-churros</guid>
         
         
         <category>recipes</category>
@@ -875,7 +875,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -965,8 +965,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 23 Mar 2013 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/strawberry-bundt-cake</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/strawberry-bundt-cake</guid>
+        <link>http://easyfreerecipe.com/recipes/strawberry-bundt-cake</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/strawberry-bundt-cake</guid>
         
         
         <category>recipes</category>
@@ -986,7 +986,7 @@
 //--&gt;
 &lt;/script&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;/easyfreerecipe/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
@@ -1069,8 +1069,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 16 Mar 2013 06:00:00 -0400</pubDate>
-        <link>http://easyfreerecipe.com/easyfreerecipe/recipes/peanut-butter-cookies</link>
-        <guid isPermaLink="true">http://easyfreerecipe.com/easyfreerecipe/recipes/peanut-butter-cookies</guid>
+        <link>http://easyfreerecipe.com/recipes/peanut-butter-cookies</link>
+        <guid isPermaLink="true">http://easyfreerecipe.com/recipes/peanut-butter-cookies</guid>
         
         
         <category>recipes</category>
